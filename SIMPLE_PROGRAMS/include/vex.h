@@ -17,6 +17,9 @@
 
 #include "robot-config.h"
 
+#include "auton.h"
+#include "usercontrol.h";
+
 #define waitUntil(condition)                                                   \
   do {                                                                         \
     wait(5, msec);                                                             \
