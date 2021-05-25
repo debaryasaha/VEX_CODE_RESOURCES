@@ -1,2 +1,10 @@
 # VEX_CODE_RESOURCES
-Some simple examples and resources for VEX CODE C++
+
+This repository will contain some basics about VEX C++ programming including:
+- basic autonomous functions
+- driver control
+- using sensors (inertial, encoders, potentiometer, etc.)
+- PID Loops
+- Basic odometry
+
+Made by Debarya
