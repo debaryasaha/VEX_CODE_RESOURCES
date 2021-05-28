@@ -9,7 +9,7 @@ float pi = 3.14159265359;
 const double wheelDiameter = 3.25;
 const float wheelCircumference = wheelDiameter * pi;
 const float turningDiameter = 18.0; // distance (in inches) from top-left wheel to bottom-right wheel
-const float gearRatio = 0.5; // 0.5 turn of the motor = 1 turn of the wheel
+const float gearRatio = 1; // 1 turn of the motor = 1 turn of the wheel
 const int AUTON_DRIVE_PCT = 50; //motor set to 50% power
 
 void driveForward(float inches)
